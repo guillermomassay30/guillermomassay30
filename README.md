@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# <img src="hpttps://media.giphy.com/media/1GhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenido al Github de GUILLERMO MASSAY 
+![Banner de Guillermo Massay](./github-header-image.png)
+!
 <!--
 **guillermomassay30/guillermomassay30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
